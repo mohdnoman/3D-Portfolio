@@ -13,7 +13,9 @@ function Navbar() {
         <NavLink
           to="/about"
           className={({ isActive }) =>
-            isActive ? "text-blue-500 " : "text-black"
+            isActive
+              ? "text-blue-500 hover:w-30 px-3 hover:bg-white  hover:rounded-lg hover:items-center hover:justify-center hover:flex  hover:shadow-md"
+              : "text-black  hover:w-30 px-3  hover:bg-white  hover:rounded-lg hover:items-center hover:justify-center hover:flex  hover:shadow-md"
           }
         >
           About
@@ -21,7 +23,9 @@ function Navbar() {
         <NavLink
           to="/projects"
           className={({ isActive }) =>
-            isActive ? "text-blue-500 " : "text-black"
+            isActive
+              ? "text-blue-500 hover:w-30 px-3  hover:bg-white   hover:rounded-lg hover:items-center hover:justify-center hover:flex  hover:shadow-md"
+              : "text-black hover:w-30 px-3   hover:bg-white  hover:rounded-lg hover:items-center hover:justify-center hover:flex  hover:shadow-md"
           }
         >
           Projects
