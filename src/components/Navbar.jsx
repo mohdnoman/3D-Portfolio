@@ -5,9 +5,16 @@ function Navbar() {
     <header className="header">
       <NavLink
         to={"/"}
-        className="w-30 px-3 h-10 rounded-lg bg-white items-center justify-center flex font-bold shadow-md"
+        className="max-sm:hidden w-30 px-3 h-10 rounded-lg bg-white items-center justify-center flex font-bold shadow-md"
       >
-        <p className="blue-gradient_text">Noman's Island</p>
+        <p className=" blue-gradient_text">Noman's Island</p>
+      </NavLink>
+
+      <NavLink
+        to={"/"}
+        className="md:hidden w-30 px-3 h-10 rounded-lg bg-white items-center justify-center flex font-bold shadow-md"
+      >
+        <p className=" blue-gradient_text">NI</p>
       </NavLink>
       <nav className="flex text-lg gap-7 font-medium">
         <NavLink
