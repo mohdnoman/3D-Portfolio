@@ -101,43 +101,33 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: 'Cryptoverse',
+        description: "Cryptoverse is a dynamic website designed for crypto enthusiasts, offering real- time insights and the latest news on cryptocurrencies.Built with React, React Router, Ant Design, and Redux, it showcases my proficiency in cutting - edge technologies.Explore top cryptocurrencies, access detailed information, stay updated with the latest news, and explore various exchanges.This project highlights my expertise in React development, efficient state management with React Hooks, and polished UI design with Ant Design.Cryptoverse is a testament to my commitment to continuous learning and industry best practices in web development.",
+        link: 'https://cryptoverse2751.netlify.app/',
+        codeLink: "https://github.com/mohdnoman/Crypto-Verse"
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
-    },
-    {
-        iconUrl: car,
-        theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        name: "Gold's Gym",
+        description: "Gold's Gym is a dynamic website designed for fitness enthusiasts, featuring animated exercise visualizations. Developed with React, React Router, Material-UI, and Redux, this project showcases my expertise in modern web development.Discover exercises with ease through the Exercise Search, explore related workouts, and access curated YouTube videos for in-depth demonstrations. Gold's Gym reflects my commitment to industry best practices, highlighting skills in React Hooks, React Router, Material-UI, and API integration. It stands as a testament to my proficiency in creating engaging, user-friendly platforms for potential employers.",
+        link: "https://golds-gymin.netlify.app/",
+        codeLink: "https://github.com/mohdnoman/Golds-Gym"
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        name: "Travel Adviser",
+        description: "Travel Adviser is a showcase of advanced React skills, emphasizing best practices in folder structure, hooks, and refs. The project boasts a sleek user interface crafted with Material UI, incorporating Google Maps API for enhanced mapping functionalities. Leveraging RapidAPI, Travel Adviser seamlessly fetches data from unlimited sources, reflecting my expertise in efficient data integration. This project not only highlights my technical proficiency but also showcases a commitment to creating intuitive and feature-rich web applications for potential employers.",
+        link: "https://travel-advisor4.netlify.app/",
+        codeLink: "https://github.com/mohdnoman/travel-advisor"
     },
     {
         iconUrl: estate,
         theme: 'btn-back-black',
-        name: 'Real-Estate Application',
-        description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://github.com/adrianhajdin/projects_realestate',
+        name: 'GPT-3',
+        description: "GPT-3 React Website is a showcase of modern UI design and React proficiency, featuring responsive layouts through media queries. This project seamlessly integrates OpenAI's powerful GPT-3 technology for dynamic and intelligent content generation. With a clean React framework and easy setup, it's a testament to my technical skills and commitment to best practices. Explore and contribute to this project to enhance your portfolio with a blend of cutting-edge technology and web development expertise.",
+        link: "https://gpt3p.netlify.app/",
+        codeLink: "https://github.com/mohdnoman/Gpt-3"
     },
-    {
-        iconUrl: summiz,
-        theme: 'btn-back-yellow',
-        name: 'AI Summarizer Application',
-        description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
-    }
 ];
