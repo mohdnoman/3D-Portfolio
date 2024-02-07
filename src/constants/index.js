@@ -117,10 +117,10 @@ export const projects = [
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: "Travel Adviser",
-        description: "Travel Adviser is a showcase of advanced React skills, emphasizing best practices in folder structure, hooks, and refs. The project boasts a sleek user interface crafted with Material UI, incorporating Google Maps API for enhanced mapping functionalities. Leveraging RapidAPI, Travel Adviser seamlessly fetches data from unlimited sources, reflecting my expertise in efficient data integration. This project not only highlights my technical proficiency but also showcases a commitment to creating intuitive and feature-rich web applications for potential employers.",
-        link: "https://travel-advisor4.netlify.app/",
-        codeLink: "https://github.com/mohdnoman/travel-advisor"
+        name: "Promptopia",
+        description: "Introducing Promptopia, the ultimate prompt-sharing platform designed to fuel creativity and collaboration. With secure authentication, users can confidently engage with the vibrant community and explore a plethora of prompts across various creative disciplines. Our innovative CRED feature recognizes and rewards active participation, fostering a supportive environment where creators can thrive. From sharing prompts to engaging in discussions and collaborations, Promptopia offers a space where inspiration knows no bounds. Join us today and unlock your creative potential with Promptopia.",
+        link: "https://promptopia1.netlify.app",
+        codeLink: "https://github.com/mohdnoman/Promptopia"
     },
     {
         iconUrl: estate,
